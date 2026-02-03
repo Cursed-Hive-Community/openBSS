@@ -81,7 +81,7 @@ OpenBSS is a self-hosted monitoring suite designed for managing one or more macr
 
 ## Getting Started
 
-*Documentation en cours — à venir.*
+*Work in progress...*
 
 ---
 
