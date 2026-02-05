@@ -52,7 +52,7 @@ OpenBSS is a self-hosted monitoring suite designed for managing one or more macr
                  │  HTTPS / WebSocket
                  ▼
 ┌─────────────────────────────────────────────┐
-│     MacroWatch App                          │
+│     openBSS App                             │
 │                                             │
 │  - Web (responsive)                         │
 │  - Android / iOS / Desktop (KMP)            │
